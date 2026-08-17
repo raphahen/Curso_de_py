@@ -1,2 +1,2 @@
-# Curso_de_py
+# toda pratica de Python
 
